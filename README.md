@@ -1,9 +1,8 @@
-![Header](https://github.com/Gleb76/Gleb76/blob/main/assets/9s96.gif)
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-<img src="https://komarev.com/ghpvc/?username=UsilaDobry&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Gleb76&style=flat-square&color=blue" alt=""/>
 </div>
 <h2 align="center">
   I welcome you here
