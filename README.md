@@ -10,8 +10,8 @@
 </h2>
 
 ## :man_technologist: about me:
-I am a iOS developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
-Result-oriented developer with 1 year of experience in Swift and iOS SDK. I have a strong track record of collaborating with designers and consistently providing valuable input to enhance product decisions, keeping the user at the forefront of my mind. My expertise lies in developing applications with intuitive user interfaces that prioritize user experience.
+I am a result-oriented with 1 year of experience in Swift iOS developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
+I have a strong track record of collaborating with designers and consistently providing valuable input to enhance product decisions, keeping the user at the forefront of my mind. My expertise lies in developing applications with intuitive user interfaces that prioritize user experience.
 
 In addition, I recognize the significance of building a code base that is highly readable, loosely coupled, and easily maintainable. This approach ensures the long-term sustainability and scalability of the projects I work on. 
 
