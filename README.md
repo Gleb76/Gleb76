@@ -11,11 +11,11 @@
 
 ## :man_technologist: about me:
 I am a iOS developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
-- I work freelance.
+Result-oriented developer with 1 year of experience in Swift and iOS SDK. I have a strong track record of collaborating with designers and consistently providing valuable input to enhance product decisions, keeping the user at the forefront of my mind. My expertise lies in developing applications with intuitive user interfaces that prioritize user experience.
 
-- I study and implement ML approaches in solving various business problems.
+In addition, I recognize the significance of building a code base that is highly readable, loosely coupled, and easily maintainable. This approach ensures the long-term sustainability and scalability of the projects I work on. 
 
-- In my free time I read technical literature and study various practices in the following areas: Data Science, Data Engineering, Data Analysis, MLops.
+As an avid enthusiast of Apple products, I maintain an unwavering passion for expanding my knowledge and skills in relation to new frameworks and continuously deepening my understanding of the iOS SDK. By doing so, I aim to deliver cutting-edge solutions that leverage the full potential of the platform..
 
 - Сontacts: [![Telegram Badge](https://img.shields.io/badge/-Klyha_Gleb-blue?style=flat&logo=Telegram&logoColor=white)]([https://t.me/UsilaDobry](https://t.me/Glebkly))
 ### :hammer_and_wrench: Stack:
