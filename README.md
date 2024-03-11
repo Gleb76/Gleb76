@@ -10,7 +10,7 @@
 </h2>
 
 ## :man_technologist: about me:
-I am a Data Science specialist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
+I am a iOS developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
 - I work freelance.
 
 - I study and implement ML approaches in solving various business problems.
@@ -20,7 +20,7 @@ I am a Data Science specialist <img src="https://media.giphy.com/media/WUlplcMpO
 - Сontacts: [![Telegram Badge](https://img.shields.io/badge/-Klyha_Gleb-blue?style=flat&logo=Telegram&logoColor=white)]([https://t.me/UsilaDobry](https://t.me/Glebkly))
 ### :hammer_and_wrench: Stack:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdownr" alt="Markdown" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
