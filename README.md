@@ -16,6 +16,8 @@ I am a **result-driven iOS developer** with **2 years of experience** in **Swift
 
 I have a passion for developing clean, scalable, and maintainable codebases, ensuring long-term project sustainability. My approach focuses on creating highly readable and loosely coupled code, which contributes to the overall quality and maintainability of the software.
 
+I am also one of the developers behind the app [PhotoCut - AI Photo Editor](https://apps.apple.com/by/app/photocut-ai-photo-editor/id6444792863), an AI-powered tool for precise photo editing, available on the App Store.
+
 Being a huge Apple enthusiast, I continuously enhance my expertise in new frameworks and keep up-to-date with advancements in the iOS ecosystem. This allows me to create cutting-edge solutions that fully leverage the potential of the platform.
 
 ### :phone: Сontacts:
@@ -23,8 +25,18 @@ Being a huge Apple enthusiast, I continuously enhance my expertise in new framew
 
 ### :hammer_and_wrench: Stack:
 <div>
-  UIKit, SwiftUI, Storyboard, Xib, SnapKit, WebKit, ARC, Multithreading, GCD, Alamofire, API, MVP, MVVM, Builder Pattern, Singleton, Core Data, Realm, HealthKit, ResearchKit, CareKit
+  **Languages & Frameworks**: Swift, UIKit, SwiftUI, Storyboard, Xib, WebKit  
+  **Layout & UI**: SnapKit, Auto Layout  
+  **Networking**: Alamofire, URLSession, REST API  
+  **Architecture Patterns**: MVC, MVP, MVVM, Coordinator  
+  **Concurrency & Multithreading**: Grand Central Dispatch (GCD), Operations, Multithreading  
+  **Persistence**: Core Data, Realm  
+  **Design Patterns**: Singleton, Builder Pattern, Observer  
+  **Apple Ecosystem**: HealthKit, ResearchKit, CareKit  
+  **Memory Management**: ARC (Automatic Reference Counting)  
+  **Tools**: Xcode, Git, CocoaPods, Fastlane  
 </div>
+
 
 ### :fire: My statistics:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gleb76&theme=dark&background=000000)](https://git.io/streak-stats)  
