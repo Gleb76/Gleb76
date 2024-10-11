@@ -25,15 +25,15 @@ Being a huge Apple enthusiast, I continuously enhance my expertise in new framew
 
 ### :hammer_and_wrench: Stack:
 <div>
-  **Languages & Frameworks**: Swift, UIKit, SwiftUI, Storyboard, Xib, WebKit  
-  **Layout & UI**: SnapKit, Auto Layout  
-  **Networking**: Alamofire, URLSession, REST API  
-  **Architecture Patterns**: MVC, MVP, MVVM, Coordinator  
-  **Concurrency & Multithreading**: Grand Central Dispatch (GCD), Operations, Multithreading  
-  **Persistence**: Core Data, Realm  
-  **Design Patterns**: Singleton, Builder Pattern, Observer  
-  **Apple Ecosystem**: HealthKit, ResearchKit, CareKit  
-  **Memory Management**: ARC (Automatic Reference Counting)  
+  ** Languages & Frameworks**: Swift, UIKit, SwiftUI, Storyboard, Xib, WebKit  
+  ** Layout & UI**: SnapKit, Auto Layout  
+  ** Networking**: Alamofire, URLSession, REST API  
+  ** Architecture Patterns**: MVC, MVP, MVVM, Coordinator  
+  ** Concurrency & Multithreading**: Grand Central Dispatch (GCD), Operations, Multithreading  
+  ** Persistence**: Core Data, Realm  
+  ** Design Patterns**: Singleton, Builder Pattern, Observer  
+  ** Apple Ecosystem**: HealthKit, ResearchKit, CareKit  
+  ** Memory Management**: ARC (Automatic Reference Counting)  
   **Tools**: Xcode, Git, CocoaPods, Fastlane  
 </div>
 
